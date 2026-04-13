@@ -1,4 +1,4 @@
-# 🧪 Web Automation Testing - Selenium + JUnit
+# 🧪 Web Automation Testing
 
 Proyek ini merupakan implementasi **automation testing berbasis web** menggunakan **Selenium WebDriver**, **JUnit 5**, dan **Maven**.  
 Pengujian dilakukan pada website open-source: https://www.saucedemo.com/
