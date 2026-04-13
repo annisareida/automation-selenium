@@ -21,7 +21,7 @@ Pengujian dilakukan pada website open-source: https://www.saucedemo.com/
 automation-selenium
 ├── src
 │   ├── main
-│   │   └── java
+│   │   └── App.java
 │   ├── test
 │   └── java
 │       ├── base
@@ -76,7 +76,7 @@ mvn test
 Contoh hasil eksekusi:
 
 ```
-Tests run: 2
+Tests run: 4
 Failures: 0
 Errors: 0
 BUILD SUCCESS
@@ -111,23 +111,9 @@ assertEquals("Epic sadface: Username and password do not match any user in this 
 
 ---
 
-## 🎯 Future Improvements
-
-- Add to Cart Automation
-- Checkout Flow Testing
-- Cross-browser Testing
-- Reporting (Allure / Extent Report)
-
----
-
 ## 👩‍💻 Author
 
-**Annisa**  
-Informatics Engineering Student  
-Interested in QA Automation & Software Testing
+**Annisa Reida Raheima**  
+Informatics Engineering Graduate Student  
 
 ---
-
-## ⭐ Notes
-
-Project ini dibuat sebagai bagian dari portfolio untuk posisi **QA / Software Tester Internship**, dengan fokus pada automation testing dan best practices dalam pengujian perangkat lunak.
